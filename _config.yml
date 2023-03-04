@@ -1,3 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    color: white;
+}
+
+.logo img {
+    filter: invert(1);
+}
+
+.description a {
+    color: white;
+}
+
+---
+
 title: Brent Parker with Datalyst # your name (or website title) here
 logo: "/images/Self Pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
