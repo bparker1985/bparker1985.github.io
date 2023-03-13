@@ -17,14 +17,12 @@ body {
 
 ---
 
-title: Brent Parker with Datalyst # your name (or website title) here
-logo: "/images/Self Pic.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Brent Parker 
+Data Analyst                                             # your name (or website title) here
+logo: "/images/Self Pic.jpg?raw=true"                    # your photo (or logo) here
+description: >                                           # your text below (remove <br> elements if you don't need line breaks)
   Data Driven Analyst @ Vietmart | SQL | Excel | Python | Power BI 
   Data and process-driven analyst with nearly 3 years of experience. 
-  Specializing in SQL Databases and Data Visualization. 
-  2 years of experience and skills in database management. 
-  Experienced in producing data visualizations and business intelligence needed for decision-making.
   <br><br>
   <a href="https://www.linkedin.com/in/brent-parker-73932421b/">View My LinkedIn Profile</a> 
   
